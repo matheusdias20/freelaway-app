@@ -2,6 +2,7 @@
 <p align="center">
   <strong>A aplicação consiste em um site para freelancers encontrarem trabalhos. Nele é possível se cadastrar e logar com um usuário e aceitar trabalhos freelas, e enviar o trabalho concluído para o cliente dentro da própria plataforma.</strong>
    <br>
+   <br>
   <span>Freelaway é um um site para freelancers desenvolvido durante a Pythonstack Week 3.0, evento organizado pela Pythonando.</span>
 </p>
 
